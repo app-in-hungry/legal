@@ -16,9 +16,9 @@ legal/
 | 앱 | 폴더 | 이용약관 URL |
 |---|---|---|
 | 오늘 뭐 해먹지 (app27) | `what-to-cook/` | https://app-in-hungry.github.io/legal/what-to-cook/terms-of-service.html |
-| QR코드 만들기 (app28) | `qr-code-maker/` | https://app-in-hungry.github.io/legal/qr-code-maker/terms-of-service.html — 생성 2026-09-02, **push 전** |
-| 만 나이 계산기 (app30) | `age-calc/` | https://app-in-hungry.github.io/legal/age-calc/terms-of-service.html — 생성 2026-09-03, **push 전** |
-| N빵 계산기 (app29) | `nbbang-calc/` | https://app-in-hungry.github.io/legal/nbbang-calc/terms-of-service.html — 생성 2026-09-03, **push 전** |
+| QR코드 만들기 (app28) | `qr-code-maker/` | https://app-in-hungry.github.io/legal/qr-code-maker/terms-of-service.html — 게시 2026-09-04 |
+| 만 나이 계산기 (app30) | `age-calc/` | https://app-in-hungry.github.io/legal/age-calc/terms-of-service.html — 게시 2026-09-04 |
+| N빵 계산기 (app29) | `nbbang-calc/` | https://app-in-hungry.github.io/legal/nbbang-calc/terms-of-service.html — 게시 2026-09-03 |
 
 ## 규칙
 
