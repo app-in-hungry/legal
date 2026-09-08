@@ -28,3 +28,4 @@ legal/
 - 개정: 앱에서 export → 여기서 commit · push. URL 이 안 바뀌어 콘솔 재등록은 불필요. **본문이 바뀌는 개정은 push 전에 사람이 읽는다** — 게시된 순간 법적 문서다.
 - 페이지는 외부 요청이 없어야 한다(폰트·CSS 인라인). 약관 페이지가 제3자에 접속 기록을 흘리면 방침의 '국외 이전 없음'과 어긋난다.
 - 폴더 이름은 콘솔 appName 과 같게 — 앱이 많아져도 어느 약관이 어느 앱인지 헷갈리지 않게.
+- 예외: `kakaotalk-thermo/og.png` 는 약관이 아니라 **공유 링크 미리보기 이미지**(Share.createLink ogImageUrl · app31 `app-registration/02-screenshots/landscape-1.png` 복사, 2026-09-08). 다시 만들면 여기도 덮어쓴다.
