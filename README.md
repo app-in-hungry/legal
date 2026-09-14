@@ -17,7 +17,7 @@ legal/
 |---|---|---|
 | 오늘 뭐 해먹지 (app27) | `what-to-cook/` | https://app-in-hungry.github.io/legal/what-to-cook/terms-of-service.html |
 | QR코드 만들기 (app28) | `make-qr/` | https://app-in-hungry.github.io/legal/make-qr/terms-of-service.html — 게시 2026-09-04 |
-| 만 나이 계산기 (app30) | `age-calc/` | https://app-in-hungry.github.io/legal/age-calc/terms-of-service.html — 게시 2026-09-04 |
+| 몇 살부터 (app30) | `calc-age/` | https://app-in-hungry.github.io/legal/calc-age/terms-of-service.html — 게시 2026-09-14 (9/4~9/5 `age-calc/` 에서 옮김 — 콘솔 appName) |
 | N빵 계산기 (app29) | `nbbang-calc/` | https://app-in-hungry.github.io/legal/nbbang-calc/terms-of-service.html — 게시 2026-09-03 |
 | 카톡 대화 온도계 (app31) | `kakaotalk-thermo/` | https://app-in-hungry.github.io/legal/kakaotalk-thermo/terms-of-service.html — 게시 2026-09-07 |
 
