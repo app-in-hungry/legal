@@ -13,13 +13,13 @@ legal/
 └── README.md
 ```
 
-| 앱 | 폴더 | 이용약관 URL |
+| 앱 | 폴더 | 이용약관 URL (시행일은 각 폴더 `terms-of-service.html` 머리말이 정본) |
 |---|---|---|
-| 오늘 뭐 해먹지 (app27) | `what-to-cook/` | https://app-in-hungry.github.io/legal/what-to-cook/terms-of-service.html |
-| QR코드 만들기 (app28) | `make-qr/` | https://app-in-hungry.github.io/legal/make-qr/terms-of-service.html — 게시 2026-09-04 |
-| 몇 살부터 (app30) | `calc-age/` | https://app-in-hungry.github.io/legal/calc-age/terms-of-service.html — 게시 2026-09-14 (9/4~9/5 `age-calc/` 에서 옮김 — 콘솔 appName) |
-| N빵 계산기 (app29) | `nbbang-calc/` | https://app-in-hungry.github.io/legal/nbbang-calc/terms-of-service.html — 게시 2026-09-03 |
-| 카톡 대화 온도계 (app31) | `kakaotalk-thermo/` | https://app-in-hungry.github.io/legal/kakaotalk-thermo/terms-of-service.html — 게시 2026-09-07 |
+| 오늘 뭐 해먹지 (app27) | `what-to-cook/` | https://app-in-hungry.github.io/legal/what-to-cook/terms-of-service.html — 게시 2026-09-01 · 시행일 2026-09-01 · 제7조 토스 포인트(미션 레시피 확인하기) |
+| QR코드 만들기 (app28) | `make-qr/` | https://app-in-hungry.github.io/legal/make-qr/terms-of-service.html — 게시 2026-09-04 · **개정 2026-09-14**(제7조 토스 포인트 — 미션 QR코드 만들기, 시행일 2026-09-14) |
+| 몇 살부터 (app30) | `calc-age/` | https://app-in-hungry.github.io/legal/calc-age/terms-of-service.html — 게시 2026-09-14 (9/4~9/5 `age-calc/` 에서 옮김 — 콘솔 appName) · 시행일 2026-09-14 · 제7조 토스 포인트(미션 인생 시간표 확인하기) · 본문 '나이 연표' → '인생 시간표' |
+| N빵 계산기 (app29) | `nbbang-calc/` | https://app-in-hungry.github.io/legal/nbbang-calc/terms-of-service.html — 게시 2026-09-03 · 시행일 2026-09-03 · 토스 포인트 조항 없음(미션 없는 앱) |
+| 카톡 대화 온도계 (app31) | `kakaotalk-thermo/` | https://app-in-hungry.github.io/legal/kakaotalk-thermo/terms-of-service.html — 게시 2026-09-07 · **개정 2026-09-14**(제7조 토스 포인트 — 미션 우리 카톡방 분석해보기, 시행일 2026-09-07 그대로) |
 
 ## 규칙
 
