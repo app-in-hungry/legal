@@ -18,7 +18,7 @@ legal/
 | 오늘 뭐 해먹지 (app27) | `what-to-cook/` | https://app-in-hungry.github.io/legal/what-to-cook/terms-of-service.html — 게시 2026-09-01 · **개정 2026-09-14**(방침 저장 항목에서 '안내 확인 여부' 삭제, 시행일 2026-09-14) · 제7조 토스 포인트(미션 레시피 확인하기) |
 | QR코드 만들기 (app28) | `make-qr/` | https://app-in-hungry.github.io/legal/make-qr/terms-of-service.html — 게시 2026-09-04 · **개정 2026-09-14**(제7조 토스 포인트 — 미션 QR코드 만들기, 시행일 2026-09-14) |
 | 몇 살부터 (app30) | `calc-age/` | https://app-in-hungry.github.io/legal/calc-age/terms-of-service.html — 게시 2026-09-14 (9/4~9/5 `age-calc/` 에서 옮김 — 콘솔 appName) · 시행일 2026-09-14 · 제7조 토스 포인트(미션 인생 시간표 확인하기) · 본문 '나이 연표' → '인생 시간표' |
-| N빵 계산기 (app29) | `nbbang-calc/` | https://app-in-hungry.github.io/legal/nbbang-calc/terms-of-service.html — 게시 2026-09-03 · **개정 2026-09-14**(방침 저장 항목 '첫 안내 확인 여부' → '결과 화면을 연 횟수', 시행일 2026-09-14) · 토스 포인트 조항 없음(미션 없는 앱) |
+| N빵 계산기 (app29) | `nbbang-calc/` | https://app-in-hungry.github.io/legal/nbbang-calc/terms-of-service.html — 게시 2026-09-03 · 개정 2026-09-14(방침 저장 항목 '첫 안내 확인 여부' → '결과 화면을 연 횟수') · **개정 2026-09-18**(제7조 토스 포인트 — 미션 서비스 이용하기, 시행일 2026-09-18) |
 | 카톡 대화 온도계 (app31) | `kakaotalk-thermo/` | https://app-in-hungry.github.io/legal/kakaotalk-thermo/terms-of-service.html — 게시 2026-09-07 · **개정 2026-09-14**(제7조 토스 포인트 — 미션 우리 카톡방 분석해보기 · 같은 날 저녁 개인정보처리방침 저장 항목 개정: 첫 방문 여부 삭제 · 저장본 분석 데이터 · 토스 포인트 지급 기록, 시행일 2026-09-14) |
 
 ## 규칙
