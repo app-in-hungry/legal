@@ -21,7 +21,7 @@ legal/
 | N빵 계산기 (app29) | `nbbang-calc/` | https://app-in-hungry.github.io/legal/nbbang-calc/terms-of-service.html — 게시 2026-09-03 · 개정 2026-09-14(방침 저장 항목 '첫 안내 확인 여부' → '결과 화면을 연 횟수') · **개정 2026-09-18**(제7조 토스 포인트 — 미션 서비스 이용하기, 시행일 2026-09-18) |
 | 카톡 대화 온도계 (app31) | `kakaotalk-thermo/` | https://app-in-hungry.github.io/legal/kakaotalk-thermo/terms-of-service.html — 게시 2026-09-07 · **개정 2026-09-14**(제7조 토스 포인트 — 미션 우리 카톡방 분석해보기 · 같은 날 저녁 개인정보처리방침 저장 항목 개정: 첫 방문 여부 삭제 · 저장본 분석 데이터 · 토스 포인트 지급 기록, 시행일 2026-09-14) |
 | 아침 인사 카드 (app34) | `morningcard/` | https://app-in-hungry.github.io/legal/morningcard/terms-of-service.html — 게시 2026-09-22 · **개정 2026-09-23**(방침 2항 '문제 알리기' 전송 항목 · 5항 구글 계정 보관 · 국외 · 90일 삭제, 시행일 2026-09-23) · 제7조 토스 포인트(미션 '추석 인사카드 받아가기' 5원 × 하루 1 · 저장 = 보상형 광고 뒤) · 콘솔 appName `morningcard`(하이픈 없음) |
-| 인스타 DM 온도계 (app32) | `insta-thermo/` | https://app-in-hungry.github.io/legal/insta-thermo/terms-of-service.html — 게시 2026-09-18 · 시행일 2026-09-18 · 토스 포인트 조항 없음(프로모션 승인 뒤 제7조 추가 개정 예정) · 방침 저장 항목에 "파일을 요청했다고 표시한 시각"(대기 화면) |
+| 인스타 DM 온도계 (app32) | `insta-thermo/` | https://app-in-hungry.github.io/legal/insta-thermo/terms-of-service.html — 게시 2026-09-18 · **개정 2026-09-23**(시행일 2026-09-23 · 제7조 토스 포인트 신설 — 미션 '인스타DM 분석하기' 1원 × 하루 5 · 광고를 끝까지 보고 전체 카드를 열 때 · 뒤 조 번호 +1 · 방침 저장 항목에 토스 포인트 지급 기록 · 통계 항목에 적립 여부 · 4항 '광고와 토스 포인트 과정의 정보 처리') · 방침 저장 항목에 "파일을 요청했다고 표시한 시각"(대기 화면) |
 
 ## 규칙
 
