@@ -25,6 +25,7 @@ legal/
 | 짹짹 습관 (app38) | `chirp-habit/` | https://app-in-hungry.github.io/legal/chirp-habit/terms-of-service.html — 게시 2026-10-05 · 시행일 2026-10-05 · 제7조 토스 포인트(미션 '[짹짹습관] 첫 번째 · 두 번째 · 세 번째 간식 주기' 1 · 2 · 3원 · 토닥 · 체크 뒤 간식 광고를 끝까지 볼 때 · 순서대로) · **같은 날 개정 재게시**(출시 전 · 제8조 ③ "앞 차례를 받고 30분이 지나야 다음 차례가 열립니다" — 간식 사이 30분, 시행일 그대로 2026-10-05) · 기록은 기기 안(식별키는 저장 · 전송 안 함) · appName 은 콘솔 등록 전 제안값 — 콘솔 값이 다르면 폴더를 옮긴다 |
 | 궁합 보기 (app33) | `gung-hap/` | https://app-in-hungry.github.io/legal/gung-hap/terms-of-service.html — 게시 2026-10-06 · 시행일 2026-10-06 · 제7조 토스 포인트(미션 '궁합 확인하기' · 1원 × 하루 1 — 광고를 끝까지 보고 조언 카드를 열 때) · **같은 날 개정**(제7조 ① 지급 조건 · ③ 한도를 약관에 직접 — 홈의 고지 문단을 뺌) |
 | 오늘 음력 (app35) | `today-lunar/` | https://app-in-hungry.github.io/legal/today-lunar/terms-of-service.html — 게시 2026-10-06 · 시행일 2026-10-06 · 토스 포인트 조항 없음(프로모션 승인 뒤 개정) |
+| 그때 그 돈 (app36) | `money-then/` | https://app-in-hungry.github.io/legal/money-then/terms-of-service.html — 게시 2026-10-06 · 시행일 2026-10-06 · 토스 포인트 조항 없음(프로모션 승인 뒤 개정) |
 | 내 폰 인구조사 (app37) | `phone-census/` | https://app-in-hungry.github.io/legal/phone-census/terms-of-service.html — 게시 2026-10-06 · 시행일 2026-10-06 · 토스 포인트 조항 없음(프로모션 승인 뒤 개정) · 연락처 권한(기기 안 계산 · 저장 · 전송 없음) |
 
 ## 규칙
