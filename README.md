@@ -24,6 +24,7 @@ legal/
 | 인스타 DM 온도계 (app32) | `insta-thermo/` | https://app-in-hungry.github.io/legal/insta-thermo/terms-of-service.html — 게시 2026-09-18 · **개정 2026-09-23**(시행일 2026-09-23 · 제7조 토스 포인트 신설 — 미션 '인스타DM 분석하기' 1원 × 하루 5 · 광고를 끝까지 보고 전체 카드를 열 때 · 뒤 조 번호 +1 · 방침 저장 항목에 토스 포인트 지급 기록 · 통계 항목에 적립 여부 · 4항 '광고와 토스 포인트 과정의 정보 처리') · 방침 저장 항목에 "파일을 요청했다고 표시한 시각"(대기 화면) |
 | 짹짹 습관 (app38) | `chirp-habit/` | https://app-in-hungry.github.io/legal/chirp-habit/terms-of-service.html — 게시 2026-10-05 · 시행일 2026-10-05 · 제7조 토스 포인트(미션 '[짹짹습관] 첫 번째 · 두 번째 · 세 번째 간식 주기' 1 · 2 · 3원 · 토닥 · 체크 뒤 간식 광고를 끝까지 볼 때 · 순서대로) · **같은 날 개정 재게시**(출시 전 · 제8조 ③ "앞 차례를 받고 30분이 지나야 다음 차례가 열립니다" — 간식 사이 30분, 시행일 그대로 2026-10-05) · 기록은 기기 안(식별키는 저장 · 전송 안 함) · appName 은 콘솔 등록 전 제안값 — 콘솔 값이 다르면 폴더를 옮긴다 |
 | 궁합 보기 (app33) | `gung-hap/` | https://app-in-hungry.github.io/legal/gung-hap/terms-of-service.html — 게시 2026-10-06 · 시행일 2026-10-06 · 제7조 토스 포인트(미션 '궁합 확인하기' · 1원 × 하루 1 — 광고를 끝까지 보고 조언 카드를 열 때) · **같은 날 개정**(제7조 ① 지급 조건 · ③ 한도를 약관에 직접 — 홈의 고지 문단을 뺌) |
+| 오늘 음력 (app35) | `today-lunar/` | https://app-in-hungry.github.io/legal/today-lunar/terms-of-service.html — 게시 2026-10-06 · 시행일 2026-10-06 · 토스 포인트 조항 없음(프로모션 승인 뒤 개정) |
 
 ## 규칙
 
