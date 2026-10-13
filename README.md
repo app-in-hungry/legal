@@ -29,6 +29,15 @@ legal/
 | 오늘 음력 (app35) | `today-lunar/` | https://app-in-hungry.github.io/legal/today-lunar/terms-of-service.html — 게시 2026-10-06 · 시행일 2026-10-06 · **같은 날 개정**(제7조 토스 포인트 — 미션 '우리집 연간표 확인하기' · 1원 × 하루 1 · 광고를 끝까지 보고 연간 표를 열 때) · **2026-10-07 개정**(1.1 한 갈래 — 광고 문턱 · 입력 저장 안 함 문장, 시행일 2026-10-07) |
 | 그때 그 돈 (app36) | `money-then/` | https://app-in-hungry.github.io/legal/money-then/terms-of-service.html — 게시 2026-10-06 · 시행일 2026-10-06 · **같은 날 개정**(제7조 토스 포인트 — 미션 '그 해 물가표 확인하기' · 1원 × 하루 1 · 광고를 끝까지 보고 물가표 · 연표를 열 때) |
 | 내 폰 인구조사 (app37) | `phone-census/` | https://app-in-hungry.github.io/legal/phone-census/terms-of-service.html — 게시 2026-10-06 · 시행일 2026-10-06 · **같은 날 개정**(제8조 토스 포인트 — 미션 '내 폰 인구조사 해보기' · 1원 × 하루 1 · 광고를 끝까지 보고 내 연락처 카드를 열 때) · 연락처 권한(기기 안 계산 · 저장 · 전송 없음) |
+| 물 한 잔 (app39) | `water-glass/` | https://app-in-hungry.github.io/legal/water-glass/terms-of-service.html — 게시 · 시행일 2026-10-13(첫 게시) · 제7조 토스 포인트(미션 [물한잔] 물 마시기 · 물 더 마시기 · 일곱 번째 · 여덟 번째 물 마시기 1 · 2 · 3 · 4원 + 일주일 개근하기 3원 — 물 마시기 뒤 광고를 끝까지 볼 때 · 차례대로 1 · 1 · 1 · 1 · 2 · 2 · 3 · 4원) · 기록은 기기 안 |
+| 창문 열었어요 (app40) | `open-window/` | https://app-in-hungry.github.io/legal/open-window/terms-of-service.html — 게시 · 시행일 2026-10-13(첫 게시) · 제7조 토스 포인트(미션 [창문열었어요] 첫 번째 · 두 번째 · 세 번째 창문 열기 1 · 2 · 3원 + 일주일 개근하기 3원) · 기록은 기기 안 |
+| 스트레칭 한 번 (app41) | `stretch-once/` | https://app-in-hungry.github.io/legal/stretch-once/terms-of-service.html — 게시 · 시행일 2026-10-13(첫 게시) · 제7조 토스 포인트(미션 [스트레칭한번] 기지개 켜기 · 기지개 더 켜기 · 다섯 번째 기지개 켜기 1 · 2 · 3원 + 일주일 개근하기 3원) · 기록은 기기 안 |
+| 오늘 웃었어요 (app42) | `daily-smile/` | https://app-in-hungry.github.io/legal/daily-smile/terms-of-service.html — 게시 · 시행일 2026-10-13(첫 게시) · 제7조 토스 포인트(미션 [오늘웃었어요] 웃음 도장 찍기 · 웃음 도장 더 찍기 · 다섯 번째 도장 찍기 1 · 2 · 3원 + 일주일 개근하기 3원) · 기록은 기기 안 |
+| 오늘의 계단 (app43) | `daily-stairs/` | https://app-in-hungry.github.io/legal/daily-stairs/terms-of-service.html — 게시 · 시행일 2026-10-13(첫 게시) · 제7조 토스 포인트(미션 [오늘의계단] 계단 오르기 · 계단 더 오르기 · 여섯 번째 · 일곱 번째 계단 오르기 1 · 2 · 3 · 4원 + 일주일 개근하기 3원) · 기록은 기기 안 |
+| 달러 버튼 (app44) | `dollar-button/` | https://app-in-hungry.github.io/legal/dollar-button/terms-of-service.html — 게시 · 시행일 2026-10-13(첫 게시) · 제7조 토스 포인트(미션 [달러버튼] 달러 버튼 누르기 · 달러 버튼 더 누르기 · 여섯 번째 · 일곱 번째 버튼 누르기 1 · 2 · 3 · 4원 + 일주일 개근하기 3원 · 제8조 ④ 달러 환산은 공개 환율 참고값) · 기록은 기기 안 |
+| 돈나무 물 주기 (app47) | `money-tree-water/` | https://app-in-hungry.github.io/legal/money-tree-water/terms-of-service.html — 게시 · 시행일 2026-10-13(첫 게시) · 제7조 토스 포인트(미션 [돈나무물주기] 물 주기 · 물 더 주기 · 여섯 번째 · 일곱 번째 물 주기 1 · 2 · 3 · 4원 + 일주일 개근하기 3원 · 동전 잎 · 금화 열매는 그림) · 기록은 기기 안 |
+| 복돼지 저금통 (app48) | `lucky-piggy-bank/` | https://app-in-hungry.github.io/legal/lucky-piggy-bank/terms-of-service.html — 게시 · 시행일 2026-10-13(첫 게시) · 제7조 토스 포인트(미션 [복돼지저금통] 동전 넣기 · 동전 더 넣기 · 여섯 번째 · 일곱 번째 동전 넣기 1 · 2 · 3 · 4원 + 일주일 개근하기 3원 · 동전은 그림) · 기록은 기기 안 |
+| 버튼 100번 (app49) | `button-100/` | https://app-in-hungry.github.io/legal/button-100/terms-of-service.html — 게시 · 시행일 2026-10-13(첫 게시) · 제7조 토스 포인트(미션 [버튼100번] 풍선 불기 · 풍선 더 불기 · 여섯 번째 · 일곱 번째 풍선 불기 1 · 2 · 3 · 4원 + 일주일 개근하기 3원) · 기록은 기기 안 |
 
 ## 규칙
 
