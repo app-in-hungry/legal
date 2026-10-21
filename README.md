@@ -38,6 +38,7 @@ legal/
 | 돈나무 물 주기 (app47) | `money-tree-water/` | https://app-in-hungry.github.io/legal/money-tree-water/terms-of-service.html — 게시 · 시행일 2026-10-13(첫 게시) · 제7조 토스 포인트(미션 [돈나무물주기] 물 주기 · 물 더 주기 · 여섯 번째 · 일곱 번째 물 주기 1 · 2 · 3 · 4원 + 일주일 개근하기 3원 · 동전 잎 · 금화 열매는 그림) · 기록은 기기 안 |
 | 복돼지 저금통 (app48) | `lucky-piggy-bank/` | https://app-in-hungry.github.io/legal/lucky-piggy-bank/terms-of-service.html — 게시 · 시행일 2026-10-13(첫 게시) · 제7조 토스 포인트(미션 [복돼지저금통] 동전 넣기 · 동전 더 넣기 · 여섯 번째 · 일곱 번째 동전 넣기 1 · 2 · 3 · 4원 + 일주일 개근하기 3원 · 동전은 그림) · 기록은 기기 안 |
 | 버튼 100번 (app49) | `button-100/` | https://app-in-hungry.github.io/legal/button-100/terms-of-service.html — 게시 · 시행일 2026-10-13(첫 게시) · 제7조 토스 포인트(미션 [버튼100번] 풍선 불기 · 풍선 더 불기 · 여섯 번째 · 일곱 번째 풍선 불기 1 · 2 · 3 · 4원 + 일주일 개근하기 3원) · 기록은 기기 안 |
+| 행운봉투뽑기 (app50) | `lucky-envelope/` | https://app-in-hungry.github.io/legal/lucky-envelope/terms-of-service.html — 게시 · 시행일 2026-10-21(첫 게시) · 제7조 토스 포인트(미션 [행운봉투뽑기] 첫 번째 · 두 번째 · 세 번째 봉투 열기 · 하루 셋) · 제8조 ① 금액별 구성 · 몫(1~10원 · 5,000원 · 화면은 1~5,000원) · 기록은 기기 안 |
 
 ## 규칙
 
