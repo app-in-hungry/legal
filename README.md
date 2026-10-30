@@ -39,7 +39,7 @@ legal/
 | 복돼지 저금통 (app48) | `lucky-piggy-bank/` | https://app-in-hungry.github.io/legal/lucky-piggy-bank/terms-of-service.html — 게시 · 시행일 2026-10-13(첫 게시) · 제7조 토스 포인트(미션 [복돼지저금통] 동전 넣기 · 동전 더 넣기 · 여섯 번째 · 일곱 번째 동전 넣기 1 · 2 · 3 · 4원 + 일주일 개근하기 3원 · 동전은 그림) · 기록은 기기 안 |
 | 버튼 100번 (app49) | `button-100/` | https://app-in-hungry.github.io/legal/button-100/terms-of-service.html — 게시 · 시행일 2026-10-13(첫 게시) · 제7조 토스 포인트(미션 [버튼100번] 풍선 불기 · 풍선 더 불기 · 여섯 번째 · 일곱 번째 풍선 불기 1 · 2 · 3 · 4원 + 일주일 개근하기 3원) · 기록은 기기 안 |
 | 행운봉투뽑기 (app50) | `lucky-envelope/` | https://app-in-hungry.github.io/legal/lucky-envelope/terms-of-service.html — 게시 · 시행일 2026-10-23(10/21 첫 게시 → 10/22 개정: 제8조 ② 끝 '오픈 기념 한정 이벤트' 단서 — 이벤트 동안 광고 없이 적립 · 일찍 끝날 수 있음 → 10/23 개정: '기간을 정하지 않고' 뺌 · 시행일을 게시일(한국 날짜)로) · 제7조 토스 포인트(미션 [행운봉투뽑기] 첫 번째 · 두 번째 · 세 번째 봉투 열기 · 하루 셋) · 제8조 ① 금액별 구성 · 몫(1~10원 · 5,000원 · 화면은 1~5,000원) · 기록은 기기 안 |
-| 피식아재개그 (app56) | `dad-joke/` | https://app-in-hungry.github.io/legal/dad-joke/terms-of-service.html — 게시 · 시행일 2026-10-29(첫 게시) · 제7조 토스 포인트(미션 '[피식아재개그] 정답 보기' · 1원 × 하루 1 — 정답 보기 뒤 광고를 끝까지 볼 때) · 제8조 개그는 널리 알려진 아재개그를 모아 고른 것 · 풀이는 AI 도움으로 미리 씀 · 기록은 기기 안 · `og.png` = 보내기 링크 미리보기 그림 |
+| 피식아재개그 (app56) | `pisik-joke/` | https://app-in-hungry.github.io/legal/pisik-joke/terms-of-service.html — 게시 · 시행일 2026-10-29(첫 게시 · 같은 날 `dad-joke/` 에서 옮김 — 콘솔 appName `pisik-joke`, `dad-joke` 는 선점) · 제7조 토스 포인트(미션 '[피식아재개그] 정답 보기' · 1원 × 하루 1 — 정답 보기 뒤 광고를 끝까지 볼 때) · 제8조 개그는 널리 알려진 아재개그를 모아 고른 것 · 풀이는 AI 도움으로 미리 씀 · 기록은 기기 안 · `og.png` = 보내기 링크 미리보기 그림 |
 
 ## 규칙
 
