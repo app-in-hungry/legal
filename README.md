@@ -41,6 +41,7 @@ legal/
 | 행운봉투뽑기 (app50) | `lucky-envelope/` | https://app-in-hungry.github.io/legal/lucky-envelope/terms-of-service.html — 게시 · 시행일 2026-10-23(10/21 첫 게시 → 10/22 개정: 제8조 ② 끝 '오픈 기념 한정 이벤트' 단서 — 이벤트 동안 광고 없이 적립 · 일찍 끝날 수 있음 → 10/23 개정: '기간을 정하지 않고' 뺌 · 시행일을 게시일(한국 날짜)로) · 제7조 토스 포인트(미션 [행운봉투뽑기] 첫 번째 · 두 번째 · 세 번째 봉투 열기 · 하루 셋) · 제8조 ① 금액별 구성 · 몫(1~10원 · 5,000원 · 화면은 1~5,000원) · 기록은 기기 안 |
 | 피식아재개그 (app56) | `pisik-joke/` | https://app-in-hungry.github.io/legal/pisik-joke/terms-of-service.html — 게시 · 시행일 2026-10-29(첫 게시 · 같은 날 `dad-joke/` 에서 옮김 — 콘솔 appName `pisik-joke`, `dad-joke` 는 선점) · 제7조 토스 포인트(미션 '[피식아재개그] 정답 보기' · 1원 × 하루 1 — 정답 보기 뒤 광고를 끝까지 볼 때) · 제8조 개그는 널리 알려진 아재개그를 모아 고른 것 · 풀이는 AI 도움으로 미리 씀 · 기록은 기기 안 · `og.png` = 보내기 링크 미리보기 그림 |
 | 랄라세계여행 (app57) | `lala-travel/` | https://app-in-hungry.github.io/legal/lala-travel/terms-of-service.html — 게시 · 시행일 2026-10-31(첫 게시) · 제7조 토스 포인트(미션 '[랄라세계여행] 여행 떠나기' · 1원 × 하루 1 — 출발 뒤 광고를 끝까지 볼 때) · 나라 이야기는 외교부 · 백과사전 같은 공개 자료를 보고 미리 쓴 글(생성형 AI 이용 · 실시간 생성 아님) · 기록은 기기 안 · `og.png` = 보내기 링크 미리보기 그림 |
+| 아따사투리 (app58) | `atta-dialect/` | https://app-in-hungry.github.io/legal/atta-dialect/terms-of-service.html — 게시 · 시행일 2026-10-31(첫 게시) · 제7조 토스 포인트(미션 '[아따사투리] 사투리 뜻 보기' · 1원 × 하루 1 — 그날 첫 뜻 보기에서 광고를 끝까지 볼 때) · 사투리와 뜻은 실제로 쓰이는 말을 모은 것 · 예문은 생성형 AI 의 도움으로 미리 지은 것(실시간 생성 아님) · 기록은 기기 안 · `og.png` = 보내기 링크 미리보기 그림 |
 
 ## 규칙
 
