@@ -45,7 +45,7 @@ legal/
 | 건강 상식 퀴즈 (app9) | `dailyhealthquiz/` | https://app-in-hungry.github.io/legal/dailyhealthquiz/terms-of-service.html — 게시 · 시행일 2026-11-07(문제 순서 문장 개정 · 11-03 출시 전 개정 · 금액 표를 평균 1.2원으로 · 11/2 첫 게시 뒤 appName 이 health-quiz 에서 dailyhealthquiz 로 바뀌어 폴더를 옮김) · 제7조 토스 포인트(미션 '[건강상식퀴즈] 카테고리 퀴즈 마치기 · 전 카테고리 완료하기 · 3일 연속 출석하기' — 카테고리를 마친 뒤 광고를 끝까지 볼 때 1, 2, 5, 10원(94, 3, 2, 1%) 하루 3번 · 세 카테고리를 다 마치면 광고 없이 1, 2, 5, 10원(같은 확률) 하루 한 번 · 3일 연속이면 10원 한 번) · 제8조 금액별 확률 · 진료를 대신하지 않음 · 문제는 국민건강보험공단 공개 자료로 미리 만듦(생성형 AI 도움 · 실시간 생성 아님) · 전면 광고는 '광고 보고 다시 도전'에서만 · 기록은 기기 안 |
 | 1분 사기예방 퀴즈 (app11) | `scam-dodger/` | https://app-in-hungry.github.io/legal/scam-dodger/terms-of-service.html — 게시 · 시행일 2026-11-07 · 제7조 토스 포인트(미션 '[사기꾼피하기] 카테고리 퀴즈 마치기 · 전 카테고리 완료하기 · 3일 연속 출석하기' — 카테고리를 마친 뒤 광고를 끝까지 볼 때 1, 2, 5, 10원(94, 3, 2, 1%) 하루 3번 · 세 카테고리를 다 마치면 광고 없이 1, 2, 5, 10원(같은 확률) 하루 한 번 · 3일 연속이면 10원 한 번) · 제8조 금액별 확률 · 일반 상식이고 법률 상담과 신고를 대신하지 않음 · 공공기관과 관계없음 · 문제는 공개 기관 자료로 미리 만듦(생성형 AI 도움 · 실시간 생성 아님) · 전면 광고는 '광고 보고 다시 도전'에서만 · 기록은 기기 안 |
 | 행운 조개 열기 (app2) | `lucky-clam/` | https://app-in-hungry.github.io/legal/lucky-clam/terms-of-service.html — 게시 · 시행일 2026-11-07(첫 게시) · 제7조 토스 포인트(미션 '[행운 조개 열기] 첫 번째 조개 열기' 외 넷) |
-| 거북 행운복권 (app3) | `lucky-turtle/` | https://app-in-hungry.github.io/legal/lucky-turtle/terms-of-service.html — 게시 · 시행일 2026-11-07(첫 게시) · 제7조 토스 포인트(미션 '[거북 행운복권] 첫 번째 쪽지 긁기' 외 넷) |
+| 거북 행운복권 (app3) | `lucky-scratch-note/` | https://app-in-hungry.github.io/legal/lucky-scratch-note/terms-of-service.html — 게시 · 시행일 2026-11-07(첫 게시) · 제7조 토스 포인트(미션 '[거북 행운복권] 첫 번째 쪽지 긁기' 외 넷) |
 
 ## 규칙
 
